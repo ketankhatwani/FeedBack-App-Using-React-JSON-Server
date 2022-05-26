@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi corrupti deserunt aut repudiandae eligendi at, libero tenetur dolorem voluptate tempore nam expedita sapiente?",
+      "rating": 9,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi corrupti deserunt aut repudiandae eligendi at, libero tenetur dolorem voluptate tempore nam expedita sapiente?"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "This is feedback using post request."
+    }
+  ]
+}
